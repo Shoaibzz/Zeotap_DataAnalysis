@@ -8,6 +8,7 @@ The repository contains three key datasets:
 Customers.csv: Customer demographics and region data.
 Products.csv: Details about products, categories, and pricing.
 Transactions.csv: Records of transactions, including dates, quantities, and total values.
+
 2. Outputs
 EDA Report:
 A comprehensive PDF summarizing findings, including:
